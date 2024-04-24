@@ -45,6 +45,8 @@ Click on create function option and created lamda function
  ![Screenshot (1223)](https://github.com/ShrutiGavali/CLOUD-LAMBDA/assets/122098190/21e54556-1c98-4f5d-9d3a-18508b8924e5)
 # Now test the code
   Code contains permission as if we terminate the EC2 instance then it automatically deletes the volume and snapshot of the EC2 instance
+ 
+  
   https://github.com/ShrutiGavali/CLOUD-LAMBDA/assets/122098190/5bbd649e-f26a-43ab-b627-094406404ca1.mp4
 
 
