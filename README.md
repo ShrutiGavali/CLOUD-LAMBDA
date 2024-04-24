@@ -44,13 +44,8 @@ Do the following settings for remove errors
  after giving permissions give policy name as follows
  ![Screenshot (1223)](https://github.com/ShrutiGavali/CLOUD-LAMBDA/assets/122098190/21e54556-1c98-4f5d-9d3a-18508b8924e5)
 # Now test the code
-  Code contains permission as if we terminate the EC2 instance then it automatically deletes the volume and snapshot of the EC2 instace
+  Code contains permission as if we terminate the EC2 instance then it automatically deletes the volume and snapshot of the EC2 instance
   
-  
-  
-
-
-
 
 
 
